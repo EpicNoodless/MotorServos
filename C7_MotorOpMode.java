@@ -21,7 +21,7 @@ public class C7_MotorOpMode extends OpMode {
     }
 }
 
- class PB_Motor {
+class PB_Motor {
     private DcMotor motor;
 
     public void init(HardwareMap hwMap) {
